@@ -1,6 +1,6 @@
 # simulacio_rgc
 ## Run
-`python data_import.py input.csv output.csv`
+`python main.py input_file_sample.csv output.csv`
 
 ## Importar a pandas
 ```
